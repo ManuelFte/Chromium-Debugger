@@ -1,6 +1,6 @@
 # Chromium Debugger
 
-Bash script to launch a Chromium profile for debuging.
+Bash script to launch a Chromium profile for debugging.
 
 ## Usage
 
